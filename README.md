@@ -28,7 +28,7 @@ Conseguir mi primera oportunidad como desarrollador Java Junior y seguir crecien
 
 ## 📫 Contacto
 
-* LinkedIn: [(LinkedIn)](https://www.linkedin.com/in/ignxcio/)
+* [(LinkedIn)](https://www.linkedin.com/in/ignxcio/)
 
 <!--
 **Ignaciobr/IgnacioBr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
