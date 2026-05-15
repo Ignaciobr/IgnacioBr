@@ -1,46 +1,47 @@
-# 👋 Hola, soy Ignacio Bravo
+# Hola, soy Ignacio Bravo
 
-💻 Desarrollador en formación enfocado en backend con Java
-
----
-
-## 🚀 Tecnologías que estoy aprendiendo
-
-* Java
-* JPA / Hibernate
-* SQL
-* Programación Orientada a Objetos
+**Desarrollador Java Backend en formación**
 
 ---
 
-## 📚 Actualmente
+### Sobre mí
+Me apasiona la programación y estoy enfocándome en el desarrollo backend con **Java**. Después de reforzar fuertemente Programación Orientada a Objetos, estoy terminando mi formación en **Java + JPA/Hibernate** y aplicando todo en proyectos reales.
 
-* Finalizando formación en Java + JPA
-* Desarrollando proyectos personales para aplicar conocimientos
+Actualmente desarrollo un sistema de gestión de automóviles completo, donde estoy poniendo en práctica patrones MVC, persistencia con JPA y buenas prácticas de código.
 
----
-
-## 🎯 Objetivo
-
-Conseguir mi primera oportunidad como desarrollador Java Junior y seguir creciendo en el mundo IT.
+Cuando no estoy programando, me gusta mucho **andar en skate** y disfrutar del aire libre.
 
 ---
 
-## 📫 Contacto
+###  Tecnologías
 
-* [(LinkedIn)](https://www.linkedin.com/in/ignxcio/)
+- **Java** (principal)
+- **JPA / Hibernate**
+- **MySQL**
+- **Servlets y JSP**
+- **Git & GitHub**
+- NetBeans / IntelliJ IDEA
 
-<!--
-**Ignaciobr/IgnacioBr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+###  Actualmente
+- Finalizando mi formación en Java Web
+- Desarrollando proyectos personales
+- Preparándome para mi primera experiencia como **Java Junior**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+###  Objetivo
+Conseguir mi primer rol como Desarrollador Java Junior y seguir creciendo en el mundo IT.
+
+---
+
+###  Contacto
+
+- [LinkedIn](https://www.linkedin.com/in/ignxcio/)
+- [📧 Email](mailto:bravo.ignaciob@gmail.com)
+
+---
+
+Siempre abierto a aprender, colaborar o recibir feedback.  
+¡Y si también patinas, avísame que coordinamos una rodada! 🛹
