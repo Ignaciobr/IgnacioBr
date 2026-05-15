@@ -44,4 +44,4 @@ Conseguir mi primer rol como Desarrollador Java Junior y seguir creciendo en el 
 ---
 
 Siempre abierto a aprender, colaborar o recibir feedback.  
-¡Y si también patinas, avísame que coordinamos una rodada! 🛹
+
