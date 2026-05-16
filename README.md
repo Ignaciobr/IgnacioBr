@@ -25,9 +25,10 @@ Cuando no estoy programando, me gusta mucho **andar en skate** y disfrutar del a
 ---
 
 ###  Actualmente
-- Finalizando mi formación en Java Web
-- Desarrollando proyectos personales
-- Preparándome para mi primera experiencia como **Java Junior**
+
+Finalizando formación en desarrollo Java.
+Desarrollando proyectos personales con Java, JPA y MySQL.
+Actualmente aprendiendo Spring Boot y APIs REST, preparándome para mi primera experiencia como Java Backend Trainee/Junior.
 
 ---
 
